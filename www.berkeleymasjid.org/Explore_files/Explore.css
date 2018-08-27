@@ -1,0 +1,403 @@
+.paragraph_style {
+    color: rgb(0, 0, 0);
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 26px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 8px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style {
+    line-height: 26px;
+}
+.style_1 {
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 41px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 59px;
+}
+.paragraph_style_1 {
+    color: rgb(94, 94, 94);
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 8px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_2 {
+    font-family: 'HelveticaNeue-LightItalic', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 20px;
+}
+.paragraph_style_2 {
+    color: rgb(94, 94, 94);
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 8px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_3 {
+    color: rgb(0, 0, 0);
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 1.00;
+}
+.style_4 {
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 41px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 59px;
+}
+.style_5.vertical-align-middle-innerbox {
+    padding: 4px;
+}
+.paragraph_style_3 {
+    color: rgb(255, 255, 255);
+    font-family: 'Papyrus';
+    font-size: 38px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 42px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_4 {
+    color: rgb(94, 94, 94);
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_5 {
+    color: rgb(255, 255, 255);
+    font-family: 'HelveticaNeue-Thin', 'Helvetica Neue';
+    font-size: 24px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 200;
+    letter-spacing: 0;
+    line-height: 21px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_6 {
+    font-family: 'HelveticaNeue-Thin', 'Helvetica Neue';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 12px;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent url(backgroundimage_1.jpg) no-repeat scroll center center;
+    opacity: 1.00;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent url(Islamic%20images%20III_1.jpg) repeat scroll top left;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: rgb(9, 12, 20);
+    opacity: 0.85;
+}
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_6 {
+    background: rgb(224, 254, 255);
+    opacity: 1.00;
+}
+.style_SkipStroke_7 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_8 {
+    background: transparent url(Islamic%20images%20III_2.jpg) repeat scroll top left;
+    opacity: 0.86;
+}
+.style_External_960_60.vertical-align-middle-middlebox {
+    height: 60px;
+    position: relative;
+    width: 960px;
+}
+.style_SkipStroke_9 {
+    background: transparent url(backgroundimage_2.jpg) no-repeat scroll center center;
+    opacity: 0.84;
+}
+.style_External_425_287.vertical-align-middle-middlebox {
+    height: 287px;
+    position: relative;
+    width: 425px;
+}
+.Body {
+    color: rgb(88, 77, 77);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_shape_layout_style_default_External_960_303 {
+    position: relative;
+}
+.graphic_shape_layout_style_default_External_960_255 {
+    position: relative;
+}
+.graphic_shape_layout_style_default_External_425_287 {
+    position: relative;
+}
+.graphic_shape_layout_style_default_External_222_149 {
+    position: relative;
+}
+.graphic_shape_layout_style_default {
+    padding: 4px;
+}
+.graphic_shape_layout_style_default_External_960_298 {
+    position: relative;
+}
+.graphic_shape_layout_style_default_External_960_59 {
+    position: relative;
+}
+.graphic_shape_layout_style_default_External_960_60 {
+    position: relative;
+}
+.graphic_shape_style_default_SkipStroke {
+    background: rgb(255, 255, 255);
+    opacity: 1.00;
+}
+.graphic_textbox_layout_style_default_External_526_254 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_526_100 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_167_67 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_524_182 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class1 {
+    color: rgb(0, 215, 0);
+}
+a.class1:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class1:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class2 {
+    color: rgb(0, 215, 0);
+}
+a.class2:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class2:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class3 {
+    color: rgb(0, 215, 0);
+}
+a.class3:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class3:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class4 {
+    color: rgb(0, 215, 0);
+}
+a.class4:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a.class4:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+body { 
+    -webkit-text-size-adjust: none;
+}
+div { 
+    overflow: visible; 
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.inline-block.shape-with-text {
+    vertical-align: bottom;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+li.full-width {
+    width: 100;
+}
